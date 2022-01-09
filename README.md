@@ -8,7 +8,7 @@ I live in Hamburg, Germany and I am looking forward for some like minded people 
 - 💬 Ask me about all you want - especially gaming.
 <br>
 
-![54vK](https://user-images.githubusercontent.com/91140138/148703087-5b73f8c5-52db-4679-8c7e-8e5cb7901678.gif)
+![3b3f54973e3785f8dc0018ddbec9f5fe](https://user-images.githubusercontent.com/91140138/148703380-0f8e8d0c-534b-474c-99fe-19c9cd55f736.gif)
 
 #
 <br>
