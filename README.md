@@ -3,8 +3,8 @@
 ✨ I am Patrick, a fresh web developer after learning in a bootcamp at neuefische GmbH. 
 I live in Hamburg, Germany and I am looking forward for some like minded people and more opportunities to learn.✨
 #
-![giphy](https://user-images.githubusercontent.com/91140138/148702857-84b244ce-509d-47ea-bbf8-749e37f92aa6.gif) 
 
+![54vK](https://user-images.githubusercontent.com/91140138/148703087-5b73f8c5-52db-4679-8c7e-8e5cb7901678.gif)
 
 <br>
 - 🌱 I’m currently learning React-Redux
