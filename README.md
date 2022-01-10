@@ -15,3 +15,9 @@ I live in Hamburg, Germany and I am looking forward for some like minded people 
 Now come and rest with me a little by the bonfire:
 
 <br>![5](https://user-images.githubusercontent.com/91140138/148702830-48fd4f9d-5dfa-4ac7-805b-d829886c228f.gif)
+
+#
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${SeanPed})
+![Mood](https://img.shields.io/badge/mood-happy-success)
+![Mood](https://img.shields.io/badge/excited-about%20Frontend-purple)
+
