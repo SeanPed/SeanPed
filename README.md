@@ -4,8 +4,8 @@
 I live in Hamburg, Germany and I am looking forward for some like minded people and more opportunities to learn.✨
 #
 - 🌱 I’m currently learning Redux, MySQL and more Node.js
-- 👾 I’m trying to learn some basic game design and programming.
-- 💬 Ask me about all you want - especially gaming.
+- 👾 I’m trying to learn some basic game design and programming for hobby projects.
+- 💬 Ask me about all you want. 
 <br>
 
 ![3b3f54973e3785f8dc0018ddbec9f5fe](https://user-images.githubusercontent.com/91140138/148703380-0f8e8d0c-534b-474c-99fe-19c9cd55f736.gif)
